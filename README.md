@@ -1,4 +1,4 @@
-# aps-viewer-fitnselect-noprops
+# aps-viewer-noprops
 
 ## Introduction
 
